@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 streamlit
 opencv-python-headless
 numpy
 matplotlib
 Pillow
+=======
+opencv-python
+numpy
+matplotlib
+pytesseract
+pandas
+openpyxl
+>>>>>>> df3bb50 (tugas5)
